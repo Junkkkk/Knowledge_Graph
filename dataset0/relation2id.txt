@@ -1,0 +1,36 @@
+35	
+inhibitor	0
+agonist	1
+antagonist	2
+positive allosteric modulator	3
+other	4
+inducer	5
+cofactor	6
+other/unknown	7
+multitarget	8
+binder	9
+partial agonist	10
+potentiator	11
+unknown	12
+activator	13
+blocker	14
+binding	15
+ligand	16
+substrate	17
+negative modulator	18
+inverse agonist	19
+modulator	20
+adduct	21
+suppressor	22
+intercalation	23
+positive modulator	24
+allosteric modulator	25
+desensitize the target	26
+antibody	27
+partial antagonist	28
+stimulator	29
+weak inhibitor	30
+oxidizer	31
+component of	32
+inactivator	33
+chaperone	34

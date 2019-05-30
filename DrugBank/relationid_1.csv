@@ -1,0 +1,15 @@
+"","action","action_id"
+"1","inhibitor",0
+"2","agonist",1
+"3","antagonist",2
+"4","positive modulator",3
+"5","other",4
+"6","inducer",5
+"7","multitarget",6
+"8","binder",7
+"9","potentiator",8
+"10","unknown",9
+"11","activator",10
+"12","blocker",11
+"13","ligand",12
+"14","modulator",13

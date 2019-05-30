@@ -1,0 +1,15 @@
+14	
+inhibitor	0
+agonist	1
+antagonist	2
+positive modulator	3
+other	4
+inducer	5
+multitarget	6
+binder	7
+potentiator	8
+unknown	9
+activator	10
+blocker	11
+ligand	12
+modulator	13
